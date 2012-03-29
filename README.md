@@ -3,7 +3,8 @@
 ## Using Gosu in an IDE
 
 Unfortunately, at the moment Gosu is only available in Intellij (there is an eclipse plugin, but it's pretty badly out
-of date and a bit buggy.
+of date and a bit buggy)
+
 You can find out more about installing that here: http://gosu-lang.org/intellij.html
 
 ## Gosu features
