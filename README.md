@@ -15,6 +15,8 @@ Check src/main/GosuFeatures.gsp to check out some of the base Gosu features.
 
 .gsp is a gosu program (the entry point, like main(String[] args))
 
+.gsx is a gosu enhancement
+
 ## JSON Typeloading
 
 When a project has the Gosu SDK selected and there is a typeloader jar on the classpath (in this case
