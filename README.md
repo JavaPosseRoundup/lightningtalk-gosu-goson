@@ -10,8 +10,10 @@ You can find out more about installing that here: http://gosu-lang.org/intellij.
 ## Gosu features
 
 Check src/main/GosuFeatures.gsp to check out some of the base Gosu features.
+
 .gs is a gosu class
-.gsp is a gosu program (the entry point to a gosu program)
+
+.gsp is a gosu program (the entry point, like main(String[] args))
 
 ## JSON Typeloading
 
